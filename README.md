@@ -7,4 +7,4 @@ When astronomical images are taken by Charged-Coupled Device (CCD) telescopes he
 
 The Python code 'Processing_QUEST_images.py' reduces images of neptune taken by the LaSilla-QUEST telescope stored in the QUESTdata folder, so that they are ready for viewing using a FITS file image viewing tool such as DS9.
 
-Then by looking out for light sources changing position in the images taken, 5 of Neptune's moons were found. This was made easy by DS9's 'blink' technique which rapidly flashes the 3 images on screen in a loop, making the moving satellites easy to spot among the stationary stars. The stitched images are viewable in the 'stitched_moons.png' file. A mini-report is available in the Y file.
+Then by looking out for light sources changing position in the images taken, 5 of Neptune's moons were found. This was made easy by DS9's 'blink' technique which rapidly flashes the 3 images on screen in a loop, making the moving satellites easy to spot among the stationary stars. The stitched images are viewable in the 'stitched_moons.png' file. A mini-report is available in the ReducingAstronomicalImagesReport.pdf file.
